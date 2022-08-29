@@ -14,6 +14,7 @@ public class Account {
 
 	
 	public Account(String name, double balance) {
+		// New Comment
 		this.name = name;
 		this.balance = balance;
 	}
